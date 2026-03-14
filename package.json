@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "bet": "node src/runBet.js",
-    "get-balance": "node src/runGetBalance.js"
+    "get-balance": "node src/runGetBalance.js",
+    "get-jsonbin": "node src/getJsonbin.js"
   },
   "keywords": [],
   "author": "",
